@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationBarDemoApp</string>
+    <string name="default_notification_channel_id">PUSH_NOTI_CHANNEL_ID</string>
+    <string name="FCM_PREF">sarathicab.notificationbardemoapp.fcmPref</string>
+    <string name="FCM_TOEKN">sarathicab.notificationbardemoapp.fcmToken</string>
+    <string name="reply_label">Reply</string>
+    <string name="snooze">Snooze</string>
+</resources>

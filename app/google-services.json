@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1054024762036",
+    "firebase_url": "https://maps-2019-4fb8e.firebaseio.com",
+    "project_id": "maps-2019-4fb8e",
+    "storage_bucket": "maps-2019-4fb8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054024762036:android:500ac3166639438c",
+        "android_client_info": {
+          "package_name": "com.keshar.googlemapsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054024762036-p8akjni4ns1abtpfjt9rb1sc0avbllh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keshar.googlemapsproject",
+            "certificate_hash": "bd5909c9c3be14b9e73c8520860c9dabf3c51d47"
+          }
+        },
+        {
+          "client_id": "1054024762036-febmd1ot3oo8ano49srqc20nq6dgnjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gA59XVdSyUVxlbVxS1rbekewyVvHjbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054024762036-febmd1ot3oo8ano49srqc20nq6dgnjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054024762036:android:bfcce7f457bc2fc4",
+        "android_client_info": {
+          "package_name": "keshar.com.googlemapsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054024762036-n0nldauklltiugu4nch7hg3g5ubu0rnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "keshar.com.googlemapsproject",
+            "certificate_hash": "bd5909c9c3be14b9e73c8520860c9dabf3c51d47"
+          }
+        },
+        {
+          "client_id": "1054024762036-febmd1ot3oo8ano49srqc20nq6dgnjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gA59XVdSyUVxlbVxS1rbekewyVvHjbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054024762036-febmd1ot3oo8ano49srqc20nq6dgnjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054024762036:android:0f46423f1eda5dca",
+        "android_client_info": {
+          "package_name": "sarathicab.notificationbardemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054024762036-3olrnmhmhse82gcmrvjvobc8101tdrsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarathicab.notificationbardemoapp",
+            "certificate_hash": "bd5909c9c3be14b9e73c8520860c9dabf3c51d47"
+          }
+        },
+        {
+          "client_id": "1054024762036-febmd1ot3oo8ano49srqc20nq6dgnjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gA59XVdSyUVxlbVxS1rbekewyVvHjbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054024762036-febmd1ot3oo8ano49srqc20nq6dgnjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
